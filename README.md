@@ -1,2 +1,2 @@
 # My_Sql-quaries
-Quering Databases on hackerrank my first project on lighthall bootcamp 
+Quering Databases on hackerrank my first SQL project on lighthall bootcamp 
